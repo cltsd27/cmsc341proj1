@@ -1,0 +1,2 @@
+This is the Llama project for my CMSC341 Data Structures class
+The purpose is to create a new data structure called Llama stack that implements a stack which is a linked list of LlamaNodes (which contain arrays). By doing this, the Llama Stack can hold an indefinite amount of data items while reducing the amount of "new" calls
